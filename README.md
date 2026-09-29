@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumaira Akbar</h1>
 
-<h3 align="center">🤖 AI Intern @ Pakistan Ordnance Factories (POF) • 💻 Former Full Stack Developer • 🎓 Computer Science Graduate</h3>
+<h3 align="center">🤖 FULL STACK DEVELOPER</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7B9ACC&center=true&vCenter=true&width=850&lines=AI+Intern+%40+POF+Wah+Cantt;Computer+Science+Graduate;Former+Contract-Based+Full+Stack+Developer;Building+AI+Powered+Applications;Passionate+About+Automation+%26+Software+Engineering"/>
@@ -18,9 +18,9 @@
 
 I'm a **Computer Science Graduate** from **Iqra University** with practical experience in **Artificial Intelligence, Full Stack Web Development, Database Design, and Software Engineering**.
 
-Currently, I'm working as an **AI Intern at Pakistan Ordnance Factories (POF), Wah Cantt**, where I'm gaining hands-on experience in **Artificial Intelligence, intelligent automation, enterprise software development, and AI-powered solutions**.
+Previously, I worked as an **AI Intern at Pakistan Ordnance Factories (POF)**, where I contributed to cloud-based system deployments using Linux OS Ubuntu on DigitalOcean, CI/CD pipelines, algorithmic systems, intent evaluation, and automated desktop pipelines..
 
-Previously, I worked as a **Contract-Based Full Stack Developer**, where I successfully migrated organizational data from **Google Sheets to MySQL**, designed the database schema, integrated the existing frontend with the backend, and ensured that all future records were stored directly in MySQL without affecting the user interface.
+I have also worked as a **Contract-Based Full Stack Developer**, where I successfully migrated organizational data from **Google Sheets to MySQL**, designed the database schema, integrated the existing frontend with the backend, and ensured that all future records were stored directly in MySQL without affecting the user interface.
 
 I'm passionate about building AI-powered applications that solve real-world problems and continuously exploring emerging technologies.
 
@@ -30,10 +30,9 @@ I'm passionate about building AI-powered applications that solve real-world prob
 
 ## 🤖 AI Intern — Pakistan Ordnance Factories (POF)
 
-- Developing AI-powered applications and intelligent automation solutions.
-- Exploring Machine Learning, NLP, and enterprise AI technologies.
-- Collaborating with development teams on real-world software projects.
-- Applying software engineering best practices in production environments.
+- Contributed to cloud-based system deployments using Linux OS Ubuntu on DigitalOcean and CI/CD pipelines.     
+-  Worked on algorithmic systems, intent evaluation, and automated desktop pipelines.
+- Gained hands-on experience in real-world AI development, production code, and technical problem-solving.
 
 ---
 

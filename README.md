@@ -3,7 +3,7 @@
 <h3 align="center">🤖 FULL STACK DEVELOPER</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7B9ACC&center=true&vCenter=true&width=850&lines=AI+Intern+%40+POF+Wah+Cantt;Computer+Science+Graduate;Former+Contract-Based+Full+Stack+Developer;Building+AI+Powered+Applications;Passionate+About+Automation+%26+Software+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=7B9ACC&center=true&vCenter=true&width=850&lines=Computer+Science+Graduate;Former+Contract-Based+Full+Stack+Developer;Building+AI+Powered+Applications;Passionate+About+Automation+%26+Software+Engineering"/>
 </p>
 
 <p align="center">
